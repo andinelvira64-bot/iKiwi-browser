@@ -1,0 +1,59 @@
+.class public final LA10;
+.super LYo0;
+.source "chromium-ChromePublic.apk-stable-733900004"
+
+
+# virtual methods
+.method public final c(LnH;Lgf;)LZo0;
+    .locals 1
+
+    .line 1
+    new-instance v0, LC10;
+
+    .line 2
+    .line 3
+    invoke-direct {v0, p1, p2}, LXo0;-><init>(LnH;LQH0;)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-object v0
+.end method
+
+.method public final d(LnH;Lbp0;)Lap0;
+    .locals 1
+
+    .line 1
+    check-cast p2, Ly10;
+
+    .line 2
+    .line 3
+    new-instance v0, LD10;
+
+    .line 4
+    .line 5
+    invoke-direct {v0, p1, p2}, Lap0;-><init>(LnH;Lbp0;)V
+
+    .line 6
+    .line 7
+    .line 8
+    return-object v0
+.end method
+
+.method public final f()Ljava/lang/String;
+    .locals 1
+
+    .line 1
+    const-string v0, "shape_detection.mojom.FaceDetectionProvider"
+
+    .line 2
+    .line 3
+    return-object v0
+.end method
+
+.method public final g()V
+    .locals 0
+
+    .line 1
+    return-void
+.end method

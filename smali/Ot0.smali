@@ -1,0 +1,17 @@
+.class public interface abstract LOt0;
+.super Ljava/lang/Object;
+.source "chromium-ChromePublic.apk-stable-733900004"
+
+
+# virtual methods
+.method public abstract a()V
+.end method
+
+.method public abstract b(I)V
+.end method
+
+.method public abstract c(I)V
+.end method
+
+.method public abstract d(I)V
+.end method
